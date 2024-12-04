@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anish Deshpande</h1>
 <h3 align="center">I am a computer engineering student pursuing a BS at New York University's Tandon School of Engineering, passionate about deepening my knowledge in coding, machine learning, and finance.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-deshpande-coder&label=Profile%20views&color=0e75b6&style=flat" alt="anish-deshpande-coder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish-deshpande-coder" alt="anish-deshpande-coder" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/nishyd7" target="blank"><img src="https://img.shields.io/twitter/follow/nishyd7?logo=twitter&style=for-the-badge" alt="nishyd7" /></a> </p>
 
 - 🔭 I’m currently working on **some ML and AI concepts and I will be constructing the ML model to perform topology optimization on an antenna to get it to capture signals underwater.**
@@ -34,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish-deshpande-coder&show_icons=true&locale=en&layout=compact" alt="anish-deshpande-coder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anish-deshpande-coder&show_icons=true&locale=en" alt="anish-deshpande-coder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-deshpande-coder&" alt="anish-deshpande-coder" /></p>
