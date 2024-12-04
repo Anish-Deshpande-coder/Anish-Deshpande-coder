@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anish Deshpande</h1>
 <h3 align="center">I am a computer engineering student pursuing a BS at New York University's Tandon School of Engineering, passionate about deepening my knowledge in coding, machine learning, and finance.</h3>
 
-<p align="left"> <a href="https://twitter.com/nishyd7" target="blank"><img src="https://img.shields.io/twitter/follow/nishyd7?logo=twitter&style=for-the-badge" alt="nishyd7" /></a> </p>
-
 - 🔭 I’m currently working on **some ML and AI concepts and I will be constructing the ML model to perform topology optimization on an antenna to get it to capture signals underwater.**
 
 - 🌱 I’m currently learning **JavaScript as well as ML, AI and Cybersecurity encryption methods**
