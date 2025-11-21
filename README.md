@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Deshpande</h1>
-<h3 align="center">I am a computer engineering student pursuing a BS at New York University's Tandon School of Engineering, passionate about deepening my knowledge in coding, machine learning, and finance.</h3>
+<h3 align="center">I am a Computer Science student pursuing a BS at New York University's Tandon School of Engineering, passionate about deepening my knowledge in coding, machine learning, and finance.</h3>
 
 - 🔭 I’m currently working on **an ML project that uses algorithms to predict NBA matches given sets of data**
 
