@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **JavaScript, Java, as well as ML, AI and Cybersecurity encryption methods**
 
-- 👯 I’m looking to collaborate on **any kind of project that involves the use of Python or C++**
+- 👯 I’m looking to collaborate on **any kind of project that involves the use of AI Agents and Agentic Workflows**
 
 - 🤝 I’m looking for help with **the JavaScript and Java languages as I am learning their syntax and uses**
 
-- 💬 Ask me about **the latest tech trends and news especially AI and ML related as well as any question about Python or C++**
+- 💬 Ask me about **the latest tech trends and news especially AI and ML related as well as any question about Python or C++ data structures**
 
 - 📫 How to reach me **reachapld@gmail.com**
 
